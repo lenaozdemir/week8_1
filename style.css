@@ -1,0 +1,60 @@
+nav {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+footer {
+  padding-top: 3%;
+  padding-bottom: 1%;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #343a40;
+  color: whitesmoke;
+}
+
+.cont_w {
+  width: 100%;
+  display: inline;
+}
+
+.start,
+.links {
+  color: whitesmoke;
+}
+
+.start {
+  padding-left: 15%;
+}
+
+.links_nav {
+  margin-right: 10%;
+}
+
+.main_part {
+  padding-left: 12%;
+  padding-right: 15%;
+  margin-bottom: 1%;
+}
+
+.warm_welcome {
+  font-size: 3.6rem;
+  padding-bottom: 1%;
+}
+
+.content {
+  padding-top: 5.5%;
+  padding-left: 3%;
+  padding-bottom: 5%;
+  border-radius: 5px;
+  background-color: #e9ecef;
+  margin-bottom: 4%;
+}
+/*Так и не поняла как сделать чтобы карточки были одинаковой высоты при разном наполнении*/
+
+.content_txt {
+  text-align: center;
+}
+.line {
+  padding-left: 0;
+  padding-right: 0;
+}
